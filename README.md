@@ -13,8 +13,10 @@
 
 ## About
 
+JavaScript, HTML, & CSS practice exercises
 All programs within this repository are to be run through a web browser.
 
+## Contents
 1. Basic JavaScript Projects:
 
 This folder consists of 10 exercises each containing their own HTML, CSS, & JavaScript. 
