@@ -1,5 +1,11 @@
 # Basic JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 
+
+### About
+
+JavaScript, HTML, & CSS practice exercises
+All programs within this repository are to be run through a web browser.
+
 ### Technologies Used
 
 <p align="left">
@@ -11,10 +17,6 @@
 
 </p>
 
-## About
-
-JavaScript, HTML, & CSS practice exercises
-All programs within this repository are to be run through a web browser.
 
 ## Contents
 1. Basic JavaScript Projects:
