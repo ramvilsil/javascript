@@ -6,7 +6,7 @@
 JavaScript, HTML, & CSS practice exercises
 All programs within this repository are to be run through a web browser.
 
-#### Technologies Used
+#### Technologies Used in this Repository
 
 <p align="left">
 
