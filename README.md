@@ -11,7 +11,7 @@
 
 </p>
 
-<ins> About </ins>
+## About
 
 All programs within this repository are to be run through a web browser.
 
