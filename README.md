@@ -1,39 +1,30 @@
-# Basic JavaScript
+# JavaScript Exercises
 
-### About
-
-JavaScript practice exercises
-All programs within this repository are to be run through a web browser.
+Various web programs built with JavaScript.
 
 
 ## Contents
-1. Basic JavaScript Projects:
 
-This folder consists of 10 exercises each containing their own HTML, CSS, & JavaScript. 
-Each exercise aims to perform a JavaScript feature.
+- Basic JavaScript Projects
+  - 10 web pages, 10 exercises. For learning purposes, each web page contains an implemented JavaScript feature.
 
-2. Tic Tac Toe: 
+- Tic Tac Toe Web App
+  - Tic Tac Toe game in which through mouse input, the user may play against the computer/bot. 
+  The game board resets when one wins or in the case of a tie.
 
-Tic Tac Toe game web app built with HTML, CSS, & JavaScript.
-Through mouse input, the user plays against the computer/bot. The game board resets when one wins or in the case of a tie.
+- Basic Digital Calculator Web App
+  - The user is to interact with the digital calculator as designed by clicking on responsive elements.
+  The calculator will display the results of basic mathematical calculations upon valid input from the user.
 
-3. Calculator: 
+- Pizza Project
+  - Simple web page displaying an interactive pizzeria menu.
+  The user is to select items on the digital menu and add them to their cart. 
+  The page will then display the order total.
 
-Basic Calculator web app built with HTML, CSS, & JavaScript.
-The user may interact with the digital calculator by clicking the elements.
-The calculator will display the results of the mathematical calulations inputted by the user.
+- AJAX
+  - A simple AJAX exercise. The user sends a request to the server and the corresponding data is returned to update the intended part of the web page. 
+In the case of this program, the user is to click the blue button from which then, new content is rendered without reloading the page. 
+For the purpose of this exercise, XAMPP was used to create a mock Apache server. 
 
-4. Pizza Project:
-
-HTML, CSS, & JavaScript project displaying a pizzeria menu.
-This web app allows for the user to select items on the menu and add them to their cart.
-The program will then display the order total.
-
-5. AJAX:
-
-Simple AJAX exercise. The user sends a request to the server and the corresponding data is returned to update the intended part of the web page. 
-In the case of this program, the user may click the blue button which then updates the data on the screen. For the purpose of this exercise, XAMPP was used to create a mock Apache server. 
-
-6. jQuery:
-
-This exercise uses the jQuery library to manipluate the HTML and CSS data within the page. All of the information on the webpage is displayed using jQuery.
+- jQuery 
+  - This exercise consisted of a web page in which all of the information, HTML & CSS, is rendered using jQuery.
